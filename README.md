@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hola, soy Miguel Ángel de Alba y Pérez 👋
 
-<!--
-**miguelangeltrabajopr-sudo/miguelangeltrabajopr-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Python y estudiante de análisis de datos con formación en Desarrollo de Aplicaciones Multiplataforma (DAM) y experiencia en comunicación audiovisual.
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Flask
+- SQL y SQLite
+- Docker
+- Git y GitHub
+- Jupyter Notebook
+- APIs REST
+- Análisis de datos
+
+## Intereses
+
+- Automatización
+- Backend
+- Ciencia de datos
+- Visualización de información
+- Optimización de procesos
+
+## Proyectos destacados
+
+- OdontoCare API
+- Open Finance Analysis
+- Circular Day Planner
+- Viveros El Ciprés Web
+
+## Idiomas
+
+- Español (nativo)
+- Inglés (B2)
+- Francés (A1)
