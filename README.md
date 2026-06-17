@@ -13,7 +13,7 @@ Desarrollador Python y estudiante de análisis de datos con formación en Desarr
 - APIs REST
 - Análisis de datos
 
-## Intereses
+## Áreas de interés
 
 - Automatización
 - Backend
