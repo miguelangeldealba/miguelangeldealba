@@ -1,35 +1,53 @@
-# Hola, soy Miguel Ángel de Alba y Pérez 👋
+# Hi, I'm Miguel Ángel de Alba y Pérez 👋
 
-Desarrollador Python y estudiante de análisis de datos con formación en Desarrollo de Aplicaciones Multiplataforma (DAM) y experiencia en comunicación audiovisual.
+Python Developer focused on backend development, automation and data analysis.
 
-## Tecnologías
+I recently completed a Higher National Diploma in Multiplatform Application Development (DAM) and I am currently studying Applied Data Science while building practical software projects with Python.
+
+---
+
+## 🚀 Tech Stack
 
 - Python
 - Flask
-- SQL y SQLite
+- SQL & SQLite
+- REST APIs
+- Git & GitHub
 - Docker
-- Git y GitHub
+- Pandas
 - Jupyter Notebook
-- APIs REST
-- Análisis de datos
+- Java
 
-## Áreas de interés
+---
 
-- Automatización
-- Backend
-- Ciencia de datos
-- Visualización de información
-- Optimización de procesos
+## 📌 Featured Projects
 
-## Proyectos destacados
+### 🦷 OdontoCare API
+REST API developed with Flask implementing authentication, database management and backend architecture.
 
-- OdontoCare API
-- Open Finance Analysis
-- Circular Day Planner
-- Viveros El Ciprés Web
+### 📈 Open Finance Analysis
+Financial data analysis and visualization using Python and machine learning techniques.
 
-## Idiomas
+### 🐍 Python Learning Journey
+Collection of practical Python exercises and projects documenting my learning process.
 
-- Español (nativo)
-- Inglés (B2)
-- Francés (A1)
+### 🌿 Viveros El Ciprés
+Business website developed as a real-world web project.
+
+---
+
+## 🎯 Current Focus
+
+- Backend Development
+- Python
+- REST APIs
+- Automation
+- Data Science
+
+---
+
+## 📫 Contact
+
+- LinkedIn
+- GitHub
+- Email
