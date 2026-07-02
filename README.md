@@ -32,6 +32,19 @@ I enjoy solving real-world problems through software and continuously improving 
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miguelangeldealba&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelangeldealba&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=miguelangeldealba&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
 # 💻 Tech Stack
 
 ### Languages
@@ -75,8 +88,7 @@ REST API built with Flask implementing:
 - SQL Database
 - Clean Backend Architecture
 
-➡️ Repository:
-https://github.com/miguelangeldealba/odontocare-api
+### 🔗 [View Repository](https://github.com/miguelangeldealba/odontocare-api)
 
 ---
 
@@ -91,8 +103,7 @@ Skills demonstrated:
 - Visualization
 - Reporting
 
-➡️ Repository:
-https://github.com/miguelangeldealba/open-finance-analysis
+### 🔗 [View Repository](https://github.com/miguelangeldealba/open-finance-analysis)
 
 ---
 
@@ -100,8 +111,15 @@ https://github.com/miguelangeldealba/open-finance-analysis
 
 A collection of Python exercises and projects documenting my learning path from fundamentals to backend development.
 
-➡️ Repository:
-https://github.com/miguelangeldealba/python-learning-journey
+### 🔗 [View Repository](https://github.com/miguelangeldealba/python-learning-journey)
+
+---
+
+## 🌱 Viveros El Ciprés
+
+Corporate website developed for a real business.
+
+### 🔗 [View Repository](https://github.com/miguelangeldealba/viveros-el-cipres)
 
 ---
 
@@ -117,18 +135,19 @@ https://github.com/miguelangeldealba/python-learning-journey
 
 # 🌍 Languages
 
-🇪🇸 Spanish — Native
-
-🇬🇧 English — B2
-
-🇫🇷 French — A1
+- 🇪🇸 Spanish — Native
+- 🇬🇧 English — B2
+- 🇫🇷 French — A1
 
 ---
 
 # 📫 Contact
 
-📧 miguelangel.trabajo.pr@gmail.com
+📧 **Email:**  
+**miguelangel.trabajo.pr@gmail.com**
 
-💼 LinkedIn
+💼 **LinkedIn**  
+[View my LinkedIn Profile](https://www.linkedin.com/in/miguel-angel-de-alba-y-p%C3%A9rez)
 
-https://www.linkedin.com/in/miguel-angel-de-alba-y-p%C3%A9rez
+🐙 **GitHub**  
+[github.com/miguelangeldealba](https://github.com/miguelangeldealba)
