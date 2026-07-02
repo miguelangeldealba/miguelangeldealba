@@ -6,15 +6,15 @@
 
 # 👋 Hi, I'm Miguel Ángel de Alba y Pérez
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Applied+Data+Science+Student;REST+API+Developer;Python+Automation;Always+Learning"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Developer;Applied+Data+Science+Student;REST+API+Developer;Python+Automation;Always+Learning"/>
 
-### Python Backend Developer • Applied Data Science Student
+### Python Developer • Backend Developer • Applied Data Science Student
 
 Building practical software with Python, Backend Development, Automation, REST APIs and Data Analysis.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-de-alba-y-p%C3%A9rez)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/miguelangeldealba)
-[![CV](https://img.shields.io/badge/CV-Coming%20Soon-success?logo=readthedocs&logoColor=white)](https://github.com/miguelangeldealba)
+[![CV](https://img.shields.io/badge/CV-Download_PDF-success?logo=adobeacrobatreader&logoColor=white)](./Miguel_Angel_de_Alba_CV.pdf)
 
 <br>
 
