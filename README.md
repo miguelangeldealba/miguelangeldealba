@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Banner">
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Miguel Ángel de Alba y Pérez
