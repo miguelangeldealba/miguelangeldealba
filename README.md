@@ -6,16 +6,15 @@
 
 # 👋 Hi, I'm Miguel Ángel de Alba y Pérez
 
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Developer;Applied+Data+Science+Student;REST+API+Developer;Always+Learning"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Applied+Data+Science+Student;REST+API+Developer;Python+Automation;Always+Learning"/>
 
-### Python Developer • Backend Developer • Applied Data Science Student
+### Python Backend Developer • Applied Data Science Student
 
-Building practical software with Python, Backend Development, APIs and Data Analysis.
+Building practical software with Python, Backend Development, Automation, REST APIs and Data Analysis.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-de-alba-y-p%C3%A9rez)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/miguelangeldealba)
+[![CV](https://img.shields.io/badge/CV-Coming%20Soon-success?logo=readthedocs&logoColor=white)](https://github.com/miguelangeldealba)
 
 <br>
 
@@ -29,24 +28,28 @@ Building practical software with Python, Backend Development, APIs and Data Anal
 
 🎓 Higher Technician in Multiplatform Application Development (DAM)
 
-📚 Currently studying **Applied Data Science** at Universitat Oberta de Catalunya (UOC)
+🎓 Higher Technician in Audiovisual Projects & Live Events
 
-💻 Passionate about:
+📚 Applied Data Science Student at Universitat Oberta de Catalunya (UOC)
 
-- Backend Development
-- Python Automation
-- REST APIs
-- Data Analysis
-- Machine Learning
-- Clean Code
+💼 Interested in Backend Development, Python Automation, REST APIs and Data Analysis.
 
-I enjoy solving real-world problems through software and continuously improving my technical skills.
+I enjoy building practical software, automating repetitive tasks and creating solutions focused on real-world problems.
+
+---
+
+# 💼 Professional Experience
+
+- 🎬 Audiovisual Editor & Motion Graphics
+- 🎭 Stage & Animatronics Technician
+- 🐍 Python Backend Development
+- 📊 Data Analysis Projects
 
 ---
 
 # 💻 Tech Stack
 
-<p>
+<p align="center">
 
 <a href="https://www.python.org/">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
@@ -104,12 +107,7 @@ I enjoy solving real-world problems through software and continuously improving 
 
 ## 🦷 OdontoCare API
 
-REST API built with Flask implementing:
-
-- JWT Authentication
-- CRUD Operations
-- SQL Database
-- Clean Backend Architecture
+REST API developed with **Python** and **Flask**, implementing JWT authentication, CRUD operations, SQL database management and a clean backend architecture.
 
 ### 🔗 [View Repository](https://github.com/miguelangeldealba/odontocare-api)
 
@@ -117,14 +115,7 @@ REST API built with Flask implementing:
 
 ## 📈 Open Finance Analysis
 
-Python project focused on financial data analysis using Pandas and Jupyter Notebook.
-
-Skills demonstrated:
-
-- Data Cleaning
-- Exploratory Data Analysis
-- Visualization
-- Reporting
+Financial data analysis project using Python, Pandas and Jupyter Notebook to clean, analyse and visualize financial datasets.
 
 ### 🔗 [View Repository](https://github.com/miguelangeldealba/open-finance-analysis)
 
@@ -132,7 +123,7 @@ Skills demonstrated:
 
 ## 🐍 Python Learning Journey
 
-A collection of Python exercises and projects documenting my learning path from fundamentals to backend development.
+A structured collection of Python exercises and projects documenting my progression from the fundamentals to backend development and automation.
 
 ### 🔗 [View Repository](https://github.com/miguelangeldealba/python-learning-journey)
 
@@ -140,25 +131,17 @@ A collection of Python exercises and projects documenting my learning path from 
 
 ## 🌱 Viveros El Ciprés
 
-Corporate website developed for a real business.
+Corporate website developed for a real business using modern web development practices.
 
 ### 🔗 [View Repository](https://github.com/miguelangeldealba/viveros-el-cipres)
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=miguelangeldealba&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=miguelangeldealba&theme=github-dark&hide_border=true" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelangeldealba&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=miguelangeldealba&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
@@ -166,42 +149,56 @@ Corporate website developed for a real business.
 
 # 🚀 What I'm Working On
 
-- 🔭 Building REST APIs with Flask
-- 🌱 Studying Applied Data Science (UOC)
+- 🔭 Developing REST APIs with Flask
 - 🐍 Improving Python Backend Development
-- 📊 Developing Data Analysis Projects
+- 📊 Building Data Analysis projects with Pandas
+- 🎓 Studying Applied Data Science at UOC
 - 💼 Looking for Junior Python / Backend Developer opportunities
 
 ---
 
 # 📚 Currently Learning
 
-![Applied Data Science](https://img.shields.io/badge/Applied_Data_Science-blue)
+<p align="center">
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-success)
+<img src="https://img.shields.io/badge/Applied_Data_Science-blue"/>
 
-![Statistics](https://img.shields.io/badge/Statistics-orange)
+<img src="https://img.shields.io/badge/Machine_Learning-success"/>
 
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-yellow)
+<img src="https://img.shields.io/badge/Statistics-orange"/>
 
-![Backend Architecture](https://img.shields.io/badge/Backend_Architecture-lightgrey)
+<img src="https://img.shields.io/badge/Data_Visualization-yellow"/>
+
+<img src="https://img.shields.io/badge/Backend_Architecture-lightgrey"/>
+
+</p>
 
 ---
 
 # 🌍 Languages
 
 - 🇪🇸 Spanish — Native
-- 🇬🇧 English — B2
-- 🇫🇷 French — A1
+- 🇬🇧 English — Professional Working Proficiency (B2)
+- 🇫🇷 French — Basic (A1)
 
 ---
 
 # 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-miguelangel.trabajo.pr@gmail.com-red?logo=gmail)](mailto:miguelangel.trabajo.pr@gmail.com)
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20Ángel%20de%20Alba-blue?logo=linkedin)](https://www.linkedin.com/in/miguel-angel-de-alba-y-p%C3%A9rez)
+<a href="mailto:miguelangel.trabajo.pr@gmail.com">
+<img src="https://img.shields.io/badge/Email-Gmail-red?logo=gmail&logoColor=white"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-miguelangeldealba-black?logo=github)](https://github.com/miguelangeldealba)
+<a href="https://www.linkedin.com/in/miguel-angel-de-alba-y-p%C3%A9rez">
+<img src="https://img.shields.io/badge/LinkedIn-Miguel%20Ángel%20de%20Alba-0077B5?logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/miguelangeldealba">
+<img src="https://img.shields.io/badge/GitHub-miguelangeldealba-181717?logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
